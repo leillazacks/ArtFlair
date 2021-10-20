@@ -2,7 +2,7 @@
     background-color: darkblue;
 }
 
-.href{
+.nav{
     background-color: darkblue;
     margin: 0px;
     padding: 50px;
@@ -12,7 +12,7 @@
 
 }
 
-.href a{
+.nav a{
   display: block;
   padding: 14px 16px;
   color:white;
@@ -29,11 +29,11 @@ img{
 
 
 
-.href a:hover{
+.uni a:hover{
   background-color: lightblue
 }
 
-.drama{
+.uni{
   background-color: darkblue;
   margin: 0px;
   padding: 20px;
