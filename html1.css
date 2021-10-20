@@ -126,6 +126,7 @@ body{
 img{
     width: 20%
     height: 15%
+    float:right;
 }
 
 a{
