@@ -1,0 +1,134 @@
+
+.header{
+    background-color: darkblue;
+}
+
+.logocontainer{
+    background-image:url("Screenshot (4).png");
+    margin: 0px;
+    padding: 115px;
+    color:  white;
+    font-family: lobster;
+    font-size:25px;
+}
+
+.nav{
+  background-color: darkblue;
+  margin: 0px;
+  padding: 50px;
+  color:  white;
+  font-family: lobster;
+  font-size:25px;
+}
+
+.nav a{
+  display: block;
+  padding: 14px 16px;
+  color:white;
+  text-decoration: none;
+  float: left;
+
+
+}
+
+.block{
+  
+}
+
+
+.nav a:hover{
+  background-color: lightblue
+}
+
+
+h1{
+color:  white;
+font-family: lobster;
+font-size:60px;
+text-align: center;
+font-style: italic;
+}
+
+h3{
+  color: white;
+  font-family: lobster;
+  font-size: 35px;
+  text-align: center;
+  font-style: normal;
+}
+
+p{
+  color: white;
+  font-family: lobster;
+  font-size: 20px;
+  text-align: center;
+  font-style: normal;
+}
+
+h2{
+  color: white;
+  font-family: lobster;
+  font-size: 25px;
+  text-align: center;
+  font-style: normal;
+}
+
+h4{
+  color: white;
+  font-family: lobster;
+  font-size: 25px;
+  text-align: center;
+  font-style: normal;
+}
+
+h5{
+  color: white;
+  font-family: lobster;
+  font-size: 25px;
+  text-align: center;
+  font-style: normal;
+}
+
+body{
+  background-color:steelblue;
+}
+
+
+
+.formy{
+  text-align: center;
+}
+
+input, textarea{
+  width: 400px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 20px;
+  font-size: 18px;
+}
+
+.menu a, .footerbar{
+  background-color: darkblue;
+  margin: 0;
+  padding: 0px;
+  overflow: hidden;
+}
+
+.menu a, .footerbar{
+  display: block;
+  padding: 14px 16px;
+  color: white;
+  text-decoration: none;
+  float: left;
+}
+
+.footerbar{
+  color: white;
+  font-family: lobster;
+  font-size: 20px;
+
+}
+
+.menu a:hover, .footerbar a:hover{
+  background-color: lightblue;
+}
